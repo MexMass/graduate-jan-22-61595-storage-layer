@@ -1,0 +1,7 @@
+1. Select the movie_name & release_date of every movie.
+2. Select the first and last names of all American directors.
+3. Select all male actors born after the 1st of January 1970.
+4. Select the names of all movies which are over 90 minutes long and movie language is English.
+5. Select the movie names & movie language of all movies with a movie language of English, Spanish, or Korean.
+6. Select the first and last names of the actors whose last name begins with M and were born between 01/01/1940 and 31/12/1969.
+7. Select the first and last names of the directors with natioanlity of British, French or German born between 01/01/1950 and 31/12/1980.
