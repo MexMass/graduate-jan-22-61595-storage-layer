@@ -1,2 +1,3 @@
 SELECT first_name, last_name
-FROM directors;
+FROM directors
+WHERE nationality='American';
